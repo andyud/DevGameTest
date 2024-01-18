@@ -9,7 +9,7 @@
 + If collsion with left, top, right wall will change direction and speed via physics
 + If collision with the bottom wall, the ball will be stopped
 + If collision with brick: brick will be destroy and score will be increased
-### Game result
+## 3. Game result
 
   
 ![Alt text](https://github.com/andyud/DevGameTest/blob/main/target.png)
